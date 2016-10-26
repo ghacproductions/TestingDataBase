@@ -1,0 +1,5 @@
+${licenseFirst}
+${licensePrefix}DHBW Engineering Stuttgart e.V.
+${licensePrefix}All rights reserved
+${licensePrefix}2016
+${licenseLast}
